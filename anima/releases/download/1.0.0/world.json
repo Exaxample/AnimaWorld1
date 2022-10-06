@@ -1,0 +1,54 @@
+{
+  "name": "anima",
+  "title": "Anima: With Sword and Fire",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "name": "es-magia",
+      "label": "(ES) Magia",
+      "path": "packs/es-magia.db",
+      "private": false,
+      "entity": "Item",
+      "system": "animabf",
+      "package": "world",
+      "absPath": "E:\\Foundry\\Recursos\\Data\\worlds\\anima\\packs\\es-magia.db"
+    },
+    {
+      "name": "es-armas",
+      "label": "(ES) Armas",
+      "path": "packs/es-armas.db",
+      "private": false,
+      "entity": "Item",
+      "system": "animabf",
+      "package": "world",
+      "absPath": "E:\\Foundry\\Recursos\\Data\\worlds\\anima\\packs\\es-armas.db"
+    },
+    {
+      "name": "es-armaduras",
+      "label": "(ES) Armaduras",
+      "path": "packs/es-armaduras.db",
+      "private": false,
+      "entity": "Item",
+      "system": "animabf",
+      "package": "world"
+    }
+  ],
+  "system": "animabf",
+  "dependencies": [],
+  "socket": false,
+  "manifest": "https://github.com/Exaxample/AnimaWorld1/releases/download/1.0.0/world.json",
+  "protected": false,
+  "background": "E:\\Foundry\\Partida\\caballero\\fondo.jpg",
+  "coreVersion": "0.8.9",
+  "nextSession": "2021-12-26T20:00:00.000Z",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.13.0"
+}
