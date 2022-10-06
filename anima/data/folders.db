@@ -1,0 +1,36 @@
+{"_id":"13wASCWZIifeFA6g","name":"Gabriel grupo 2","type":"Scene","parent":null,"sorting":"a","sort":200000,"color":null,"flags":{}}
+{"name":"Eclipse","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"3CyzxvFqaWUuS7ne"}
+{"_id":"3NQBg3jHHf25xibI","name":"Nanwe","type":"Scene","parent":null,"sorting":"a","sort":800000,"color":null,"flags":{}}
+{"name":"Monstruos Hijodeputas","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"HWfRGEEuCv8VPby7"}
+{"name":"Npc's grupo 2","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"IXKFiAB4FYo1dAHP"}
+{"name":"Elegidos Tribales","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"IuYWyguhqRcY3M3n"}
+{"name":"Prisión","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"J71CEqVjUpXDP3tY"}
+{"_id":"JeKoJtopK1WMAPY8","name":"General","type":"Scene","parent":null,"sorting":"a","sort":300000,"color":null,"flags":{}}
+{"name":"Asedio","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"JuMyG3clXwYWJrXA"}
+{"_id":"KmUM1fB7j25M3t3q","name":"Moth","type":"Scene","parent":null,"sorting":"a","sort":600000,"color":null,"flags":{}}
+{"name":"Farm","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"M2hGN8sh3eMAOzLj"}
+{"name":"Subnormales","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"NP4EoPE6aspGcnE2"}
+{"name":"Piratas","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"PzyhPYgZ75XLH8ht"}
+{"name":"Clero","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"RPvbUtA3G3VPZOkz"}
+{"_id":"SCEF9xs5BA0qa1m4","name":"Mar","type":"Scene","parent":null,"sorting":"a","sort":500000,"color":null,"flags":{}}
+{"name":"Nanwe","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"SfrfYPIES67V28oS"}
+{"name":"Banquete","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"T0vBtgvpU3sD2KRz"}
+{"_id":"XJu3MeKeptnwTWf3","name":"Lannet","type":"Scene","parent":null,"sorting":"a","sort":400000,"color":null,"flags":{}}
+{"name":"Triquis","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"abE9PEGhZRKJb7NG"}
+{"name":"Lannet","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"bARw4zi4Liin1vhA"}
+{"name":"Players","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"bArzpeEqARqiynXM"}
+{"name":"Mabanu","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"dGvo7TGssaTVieeP"}
+{"name":"Sol Negro","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"e4fPCoPL8n2YKACt"}
+{"name":"Aliados","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"eVlCFEtFCgAccSX5"}
+{"name":"Magburaka","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"fbOYgtjnl1m9Gs5q"}
+{"name":"BBEG","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"iFsPiumPVZ6CDUEI"}
+{"name":"Sirvientes del Duque","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"kIzxbjmKYAmQjqDX"}
+{"name":"Soldados","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"l791c2CNP1m6jyJW"}
+{"name":"Magbraka","type":"Playlist","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"ofzMA9nuryvz2fds"}
+{"_id":"r49Pqxyn7SFzQ0lu","name":"Ojo del Huracan","type":"Scene","parent":null,"sorting":"a","sort":900000,"color":null,"flags":{}}
+{"name":"Expedición","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"rTwFGuybAp8h9KsO"}
+{"_id":"uYZQRhUvtbbXOh7v","name":"Dr Stein","type":"Scene","parent":null,"sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"Monstruos","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"x8lBeXZxxbI2FbkO"}
+{"_id":"xSSnRKxzLgzezAaQ","name":"Phaion","type":"Scene","parent":null,"sorting":"a","sort":1000000,"color":null,"flags":{}}
+{"name":"Npc's","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"xXvaY09NVuM8dY1T"}
+{"_id":"zftEvTBSdww0LhL3","name":"Magburaka","type":"Scene","parent":null,"sorting":"a","sort":700000,"color":null,"flags":{}}
