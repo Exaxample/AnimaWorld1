@@ -43,6 +43,7 @@
   "system": "animabf",
   "dependencies": [],
   "socket": false,
+  "manifest": https://github.com/Exaxample/AnimaWorld1/blob/master/anima/world.json,
   "protected": false,
   "background": "E:\\Foundry\\Partida\\caballero\\fondo.jpg",
   "coreVersion": "0.8.9",
